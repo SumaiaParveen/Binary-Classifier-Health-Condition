@@ -65,4 +65,14 @@ Several machine learning algorithms are applied to see which model works better 
 
 where mean = mean value, se = standard error and worst = mean of the three largest values
 
+## Model Performance Metrics
+
+### Selected Mode: AdaBoostClassifier(random_state = 42)
+
+### Confusion Matrix and Recall Score
+
+![CM](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/cm.JPG)
+
+
+
 
