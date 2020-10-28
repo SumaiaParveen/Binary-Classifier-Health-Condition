@@ -32,7 +32,7 @@ Values for features 4-33 are recoded with four significant digits.
 Several machine learning algorithms are applied to see which model works better on this particular dataset. Before that, 15 important features are selected after applying five feature selection/ feature importance methods. Outlier/ important observation and their impact have also been taken care of.
 
 ## Dataset Infographics
-Find the detail in the EDA section: [EDA](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part1_breastcancer_Preprocessin_EDA.ipynb)
+See the detail here =====> [EDA](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part1_breastcancer_Preprocessin_EDA.ipynb)
 
 ### Corelation between some of the features
 
