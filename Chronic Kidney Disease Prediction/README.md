@@ -1,12 +1,12 @@
 # Breast Cancer Prediciton from Breast Mass Features
 
 ## Objective
-The purpose of this analysis is to predict the class of breast cancer (either benign or malice) by employing a Machine Learning model. The data set was created and made open by Dr. William H. Wolberg, W. Nick Street, Olvi L. Mangasarian in the General Surgery and Computer Science Departments as the University of Wisconsin. 
+The purpose of this analysis is to predict the presence of chronic kidney diease by employing a Machine Learning model. The data set was created and made open by Dr. William H. Wolberg, W. Nick Street, Olvi L. Mangasarian in the General Surgery and Computer Science Departments as the University of Wisconsin. 
 
 ## About the Dataset
-Source: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+Source: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
 
-The last 30 features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. 
+The dataset has 400 rows, one per patient; these are the patients observed over a period of about two months at some point before July 2015, in a hospital in Tamil Nadu, India.
 
 Attribute information
 1. ID number
