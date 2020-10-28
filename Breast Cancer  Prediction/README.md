@@ -33,6 +33,16 @@ Several machine learning algorithms are applied to see which model works better 
 
 ## Dataset Infographics
 
+### Corelation between some of the features
+
 ![Corelation between some of the features](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/corealtion.JPG)
+
+### Bivariate Relationship between the features
+
+![Bivariate](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/bivariate.JPG)
+
+### Multivariate Relationship between the features
+
+![Multivariate](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/multivariate.JPG)
 
 
