@@ -47,6 +47,7 @@ See the detail here =====> [EDA](https://github.com/SumaiaParveen/Binary-Classif
 ![Multivariate](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/multivariate.JPG)
 
 ## Selected Features
+See the detail here =====> [Feature Selection](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part4_breastcancer_Feature_Selection.ipynb)
 
 1.	'area_worst',
 2.  'concave points_worst',
@@ -70,6 +71,7 @@ where mean = mean value, se = standard error and worst = mean of the three large
 
 #### Selected Model: 
 AdaBoostClassifier(random_state = 42)
+See the detail here =====> [Model Selection](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part2_breastcancer_Model_Selection.ipynb)
 
 #### Confusion Matrix: 
 We wanted to minimize the False Negative as small as possible and thus maximize the Recall score.
@@ -80,7 +82,8 @@ We wanted to minimize the False Negative as small as possible and thus maximize 
 
 ![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/roc_pr.JPG)
 
-#### Performance of the model on the train and test dataset:
+#### Performance of the model on the train and test dataset: [Final Model](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part6_breastcancer_AdaBoostClassifier-Final.ipynb)
+
 
 ![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/train_test.JPG)
 
