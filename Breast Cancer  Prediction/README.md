@@ -7,6 +7,7 @@ The purpose of this analysis is to predict the class of breast cancer (either be
 The last 30 features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. 
 
 Attribute information
+
 1. ID number
 2. Diagnosis (M = malignant, B = benign)
 
@@ -25,3 +26,6 @@ Feature (3-32): Ten real-valued features are computed for each cell nucleus:
 
 The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 4 is Mean Radius, field 14 is Radius SE, field 24 is Worst Radius.
 Values for features 4-33 are recoded with four significant digits.
+
+## Methodology
+Several machine learning algorithms are applied to see which model works better on this particular dataset. Before that, 15 important features are selected after applying five feature selection/ feature importance methods. Outlier/ important observation and their impact have also been taken care of.
