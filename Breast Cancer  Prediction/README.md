@@ -67,11 +67,22 @@ where mean = mean value, se = standard error and worst = mean of the three large
 
 ## Model Performance Metrics
 
-### Selected Mode: AdaBoostClassifier(random_state = 42)
+Selected Model: AdaBoostClassifier(random_state = 42)
 
-### Confusion Matrix and Recall Score
+Confusion Matrix: We wanted to minimize the False Negative as small as possible and thus maximize the Recall score.
 
 ![CM](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/cm.JPG)
+
+ROC curve and Precision-Recall curve:
+
+![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/roc_pr.JPG)
+
+Performance of the model on the train and test dataset:
+
+![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/train_test.JPG)
+
+
+
 
 
 
