@@ -88,7 +88,7 @@ We wanted to minimize the False Negative as small as possible and thus maximize 
 
 ![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/train_test.JPG)
 
-## Some numerics values we'd like to look at
+## Some numeric values we'd like to look at
 
 ```
 Macro Average of Recall Score: 0.985
