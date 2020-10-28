@@ -88,22 +88,22 @@ We wanted to minimize the False Negative as small as possible and thus maximize 
 
 ![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/train_test.JPG)
 
-## Some Numerics values we like to look at
+## Some numerics values we'd like to look at
 
-Macro Average of Recall Score: 0.985
-Weighted Average of Recall Score: 0.986
-***
-Macro Average of Precision Score: 0.985
-Weighted Average of Precision Score: 0.986
-***
-Macro Average of F1 Score: 0.985
-Weighted Average of F1 Score: 0.986
-***
-Accuracy Score of Train Set: 1.0
-Accuracy Score of Test Set: 0.986
-***
-F1 Score of Train Set: 1.0
-F1 Score of Test Set: 0.985
++ Macro Average of Recall Score: 0.985
++ Weighted Average of Recall Score: 0.986
+.
++ Macro Average of Precision Score: 0.985
++ Weighted Average of Precision Score: 0.986
+.
++ Macro Average of F1 Score: 0.985
++ Weighted Average of F1 Score: 0.986
+.
++ Accuracy Score of Train Set: 1.0
++ Accuracy Score of Test Set: 0.986
+.
++ F1 Score of Train Set: 1.0
++ F1 Score of Test Set: 0.985
 
 
 
