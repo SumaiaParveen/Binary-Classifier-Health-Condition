@@ -45,4 +45,6 @@ Several machine learning algorithms are applied to see which model works better 
 
 ![Multivariate](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/multivariate.JPG)
 
+## Selected Features
+
 
