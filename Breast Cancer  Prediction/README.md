@@ -47,4 +47,22 @@ Several machine learning algorithms are applied to see which model works better 
 
 ## Selected Features
 
+1.	'area_worst',
+2.  'concave points_worst',
+3.  'concave points_mean',
+4.  'perimeter_worst',
+5.	'concavity_mean',
+6.	'radius_worst',
+7.	'radius_mean',
+8.	'perimeter_mean',
+9.	'area_se',
+10.	'area_mean',
+11.	'concavity_worst',
+12.	'compactness_worst',
+13.	'texture_worst',
+14.	'smoothness_worst',
+15.	'radius_se'
+
+where mean = mean value, se = standard error and worst = mean of the three largest values
+
 
