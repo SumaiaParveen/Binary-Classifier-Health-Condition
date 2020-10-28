@@ -73,12 +73,13 @@ where mean = mean value, se = standard error and worst = mean of the three large
 AdaBoostClassifier(random_state = 42)
 See the detail here =====> [Model Selection](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part2_breastcancer_Model_Selection.ipynb)
 
-#### Confusion Matrix: 
+#### Confusion Matrix: [Model Evaluation](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part6_breastcancer_AdaBoostClassifier-Final.ipynb)
+
 We wanted to minimize the False Negative as small as possible and thus maximize the Recall score.
 
 ![CM](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/cm.JPG)
 
-#### ROC curve and Precision-Recall curve:
+#### ROC curve and Precision-Recall curve: [Final Model](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/Part6_breastcancer_AdaBoostClassifier-Final.ipynb)
 
 ![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Breast%20Cancer%20%20Prediction/images/roc_pr.JPG)
 
