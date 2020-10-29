@@ -1,4 +1,4 @@
-# Chronic kidney Disease Prediciton
+# Chronic Kidney Disease Prediciton
 
 ## Objective
 The purpose of this analysis is to predict the presence of chronic kidney diease by employing a Machine Learning model. L. Jerlin Rubini created the data, with the collaboration of Doctors P. Soundarapandian and P. Eswaran.
@@ -34,6 +34,7 @@ Attribute information
 + Appetite: either 'Good' or 'Poor'
 + Pedal Edema: either 'Yes' or 'No'
 + Anemia: either 'Yes' or 'No'
+.
 + Class : either 'ckd'==> 'Chronic Kidney Disease' or 'notckd'==> ' NOT Chronic Kidney Disease'
 
 The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 4 is Mean Radius, field 14 is Radius SE, field 24 is Worst Radius.
