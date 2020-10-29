@@ -1,7 +1,7 @@
-# Breast Cancer Prediciton from Breast Mass Features
+# Chronic kidney Disease Prediciton
 
 ## Objective
-The purpose of this analysis is to predict the presence of chronic kidney diease by employing a Machine Learning model. The data set was created and made open by Dr. William H. Wolberg, W. Nick Street, Olvi L. Mangasarian in the General Surgery and Computer Science Departments as the University of Wisconsin. 
+The purpose of this analysis is to predict the presence of chronic kidney diease by employing a Machine Learning model. L. Jerlin Rubini created the data, with the collaboration of Doctors P. Soundarapandian and P. Eswaran.
 
 ## About the Dataset
 Source: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
@@ -9,21 +9,32 @@ Source: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
 The dataset has 400 rows, one per patient; these are the patients observed over a period of about two months at some point before July 2015, in a hospital in Tamil Nadu, India.
 
 Attribute information
-1. ID number
-2. Diagnosis (M = malignant, B = benign)
 
-Feature (3-32): Ten real-valued features are computed for each cell nucleus:
-
-1. radius (mean of distances from center to points on the perimeter)
-2. texture (standard deviation of gray-scale values)
-3. perimeter
-4. area
-5. smoothness (local variation in radius lengths)
-6. compactness (perimeter^2 / area - 1.0)
-7. concavity (severity of concave portions of the contour)
-8. concave points (number of concave portions of the contour)
-9. symmetry
-10. fractal dimension ("coastline approximation" - 1)
++ Age: age in years
++ Blood Pressure: : BP in mm/Hg (Diastolic Pressure)
++ Specific Gravity: one of (1.005,1.010,1.015,1.020,1.025)
++ Albumin: one of (0,1,2,3,4,5)
++ Sugar: one of (0,1,2,3,4,5) 
++ Red Blood Cells: either 'Normal' or 'Abnormal'
++ Pus Cell: either 'Normal' or 'Abnormal'
++ Pus Cell clumps: either 'Present' or 'Not Present'
++ Bacteria: either 'Present' or 'Not Present'
++ Blood Glucose Random: in mgs/dl
++ Blood Urea: in mgs/dl
++ Serum Creatinine: in mgs/dl
++ Sodium: in mEq/L
++ Potassium: in mEq/L
++ Hemoglobin: in gms
++ Packed Cell Volume: Volume Percentage
++ White Blood Cell Count: in cells/cumm
++ Red Blood Cell Count: in millions/cmm
++ Hypertension: either 'Yes' or 'No'
++ Diabetes Mellitus: either 'Yes' or 'No'
++ Coronary Artery Disease: either 'Yes' or 'No'
++ Appetite: either 'Good' or 'Poor'
++ Pedal Edema: either 'Yes' or 'No'
++ Anemia: either 'Yes' or 'No'
++ Class : either 'ckd'==> 'Chronic Kidney Disease' or 'notckd'==> ' NOT Chronic Kidney Disease'
 
 The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 4 is Mean Radius, field 14 is Radius SE, field 24 is Worst Radius.
 Values for features 4-33 are recoded with four significant digits.
