@@ -1,42 +1,29 @@
-# Chronic Kidney Disease Prediciton
+# Dementia Prediction from Magnetic Resonance Image Features
 
 ## Objective
-The purpose of this analysis is to predict the presence of chronic kidney diease by employing a Machine Learning model. L. Jerlin Rubini created the data, with the collaboration of Doctors P. Soundarapandian and P. Eswaran.
+The purpose of this analysis is to predict whether a person is demented or non-demented by employing a Machine Learning model. 
 
 ## About the Dataset
-Source: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
 
-The dataset has 400 rows, one per patient; these are the patients observed over a period of about two months at some point before July 2015, in a hospital in Tamil Nadu, India.
+The Open Access Series of Imaging Studies (OASIS) is a project aimed at making MRI data sets of the brain freely available to the scientific community. OASIS is made available by the Washington University Alzheimer’s Disease Research Center, Dr. Randy Buckner at the Howard Hughes Medical Institute (HHMI)( at Harvard University, the Neuroinformatics Research Group (NRG) at Washington University School of Medicine, and the Biomedical Informatics Research Network (BIRN).
+
+Source: https://www.kaggle.com/jboysen/mri-and-alzheimers
+
+Cross-sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults: This set consists of a cross-sectional collection of 416 subjects aged 18 to 96. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. 100 of the included subjects over the age of 60 have been clinically diagnosed with very mild to moderate Alzheimer’s disease (AD). Additionally, a reliability data set is included containing 20 nondemented subjects imaged on a subsequent visit within 90 days of their initial session.
 
 Attribute information
 
-+ Age: age in years
-+ Blood Pressure: : BP in mm/Hg (Diastolic Pressure)
-+ Specific Gravity: one of (1.005,1.010,1.015,1.020,1.025)
-+ Albumin: one of (0,1,2,3,4,5)
-+ Sugar: one of (0,1,2,3,4,5) 
-+ Red Blood Cells: either 'Normal' or 'Abnormal'
-+ Pus Cell: either 'Normal' or 'Abnormal'
-+ Pus Cell clumps: either 'Present' or 'Not Present'
-+ Bacteria: either 'Present' or 'Not Present'
-+ Blood Glucose Random: in mgs/dl
-+ Blood Urea: in mgs/dl
-+ Serum Creatinine: in mgs/dl
-+ Sodium: in mEq/L
-+ Potassium: in mEq/L
-+ Hemoglobin: in gms
-+ Packed Cell Volume: Volume Percentage
-+ White Blood Cell Count: in cells/cumm
-+ Red Blood Cell Count: in millions/cmm
-+ Hypertension: either 'Yes' or 'No'
-+ Diabetes Mellitus: either 'Yes' or 'No'
-+ Coronary Artery Disease: either 'Yes' or 'No'
-+ Appetite: either 'Good' or 'Poor'
-+ Pedal Edema: either 'Yes' or 'No'
-+ Anemia: either 'Yes' or 'No'
-+ Class : either 'ckd'==> 'Chronic Kidney Disease' or 'notckd'==> ' NOT Chronic Kidney Disease'
-
-To know more in detail about the dataset, please visit Matthew Brett's website [here](https://matthew-brett.github.io/cfd2019/data/chronic_kidney_disease)
++ ID: Identification
++ M/F: Gender
++ Hand: Dominant Hand
++ Age: Age in years
++ Educ: Education Level
++ SES: Socioeconomic Status
++ MMSE: Mini Mental State Examination
++ eTIV: Estimated Total Intracranial Volume
++ nWBV: Normalize Whole Brain Volume
++ ASF: Atlas Scaling Factor
++ CDR: Clinical Dementia Rating
 
 ## Methodology
 Several machine learning algorithms are applied to see which model works better on this particular dataset. Before that, 15 important features are selected after applying five feature selection/ feature importance methods. Outlier/ important observation and their impact have also been taken care of.
@@ -109,7 +96,7 @@ Accuracy Score: 0.9
 ```
 I’ve kept the important observation unchanged in this analysis.
 
-## Model Performance Metrics
+## 5. Model Performance Metrics
 
 See the detail here =====> [Final Model]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part5_crossdementia_CatBoostClassifier-Final.ipynb)
 
