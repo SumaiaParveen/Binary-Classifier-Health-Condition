@@ -14,7 +14,7 @@ This set consists of a cross-sectional collection of 416 subjects aged 18 to 96.
 #### Acknowledgement: Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults
 Marcus, DS, Wang, TH, Parker, J, Csernansky, JG, Morris, JC, Buckner, RL. Journal of Cognitive Neuroscience, 19, 1498-1507. doi: [10.1162/jocn.2007.19.9.1498](https://www.mitpressjournals.org/doi/abs/10.1162/jocn.2007.19.9.1498)
 
-Attribute informatio
+Attribute information
 
 + ID: Identification
 + M/F: Gender
