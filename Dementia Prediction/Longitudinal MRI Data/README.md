@@ -133,7 +133,7 @@ We wanted to minimize the False Negative as small as possible and thus maximize 
 
 #### ROC curve and Precision-Recall curve: 
 
-![roc_prhttps://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Longitudinal%20MRI%20Data/images/roc_pr.JPG)
+![roc_pr](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Longitudinal%20MRI%20Data/images/roc_pr.JPG)
 
 #### Performance of the model on the train and test dataset:
 
