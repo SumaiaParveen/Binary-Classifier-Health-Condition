@@ -34,11 +34,9 @@ Attribute information
 + Appetite: either 'Good' or 'Poor'
 + Pedal Edema: either 'Yes' or 'No'
 + Anemia: either 'Yes' or 'No'
-.
 + Class : either 'ckd'==> 'Chronic Kidney Disease' or 'notckd'==> ' NOT Chronic Kidney Disease'
 
-The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 4 is Mean Radius, field 14 is Radius SE, field 24 is Worst Radius.
-Values for features 4-33 are recoded with four significant digits.
+To know more in detail about the dataset, please visit Matthew Brett's website [here](https://matthew-brett.github.io/cfd2019/data/chronic_kidney_disease)
 
 ## Methodology
 Several machine learning algorithms are applied to see which model works better on this particular dataset. Before that, 15 important features are selected after applying five feature selection/ feature importance methods. Outlier/ important observation and their impact have also been taken care of.
