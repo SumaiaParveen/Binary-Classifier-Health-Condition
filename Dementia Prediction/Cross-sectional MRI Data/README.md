@@ -47,7 +47,7 @@ See the detail here =====> [Preprocessing]( https://github.com/SumaiaParveen/Bin
 ### Missing Data
 ![Missingness of Dataset]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/missing.JPG)
 Almost 50% of the data are missing in the ‘SES” column and we want to keep the importance of missingness and thus we imputed ‘0’ if any data was missing in this particular column.
-## . Model Selection
+## 2. Model Selection
 See the detail here =====> [Model Selection]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part2_crossdementia_Model_Selection.ipynb)
 
 ### Selected Model: 
@@ -62,13 +62,13 @@ CatBoostClassifier(random_state = 42)
  'logging_level': 'Silent',
  'loss_function': 'Logloss',
  'random_seed': 18}
-
 ```
 3. ## Handling Class Imbalance 
 See the detail here =====> [Class Imbalance]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part3_crossdementia_Handling_Class_Imbalance.ipynb)
 The minority class have been oversampled in this dataset. See the images below. 
+Target Variable in the Orginal Dataset
 ![Original]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/regular.JPG)
-
+Target Variable in the Oversampled Dataset
 ![Oversampled]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/oversampled.JPG)
 ## 4. Outliers/Important Observation
 See the detail here =====> [Outliers]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part4_crossdementia_Handling_Outliers.ipynb)
@@ -85,7 +85,6 @@ Macro Average of F1 Score: 0.899
 Weighted Average of F1 Score: 0.9
 ------------------------------------------------------
 Accuracy Score: 0.9
-
 ```
 Performance metrics after taking care of the outliers:
 ```
@@ -100,7 +99,6 @@ Macro Average of F1 Score: 0.899
 Weighted Average of F1 Score: 0.9
 ------------------------------------------------------
 Accuracy Score: 0.9
-
 ```
 We’ve kept the important observation unchanged in this analysis.
 
@@ -131,5 +129,4 @@ Accuracy Score of Test Set: 0.9
 
 F1 Score of Train Set: 1.0
 F1 Score of Test Set: 0.899
-
 ```
