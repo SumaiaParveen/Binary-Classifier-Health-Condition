@@ -57,7 +57,7 @@ See the detail here =====> [EDA]( https://github.com/SumaiaParveen/Binary-Classi
 ![Multivariate]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Chronic%20Kidney%20Disease%20Prediction/images/multivariate.JPG)
 
 ## 2. Data Preprocessing
-See the detail here =====> [Data Preprocessing] ( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Chronic%20Kidney%20Disease%20Prediction/Part2_kidney_Preprocessing.ipynb)
+See the detail here =====> [Data Preprocessing](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Chronic%20Kidney%20Disease%20Prediction/Part2_kidney_Preprocessing.ipynb)
 ### Missing Data
 ![Dendrogram of missingness]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Chronic%20Kidney%20Disease%20Prediction/images/missingdendo.JPG)
 Different imputation techniques have been applied and finally we imputed the missing data with the mode of that particular column.
