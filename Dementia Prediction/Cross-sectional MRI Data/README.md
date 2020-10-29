@@ -36,6 +36,7 @@ See the detail here =====> [Preprocessing]( https://github.com/SumaiaParveen/Bin
 
 ### Missing Data
 ![Missingness of Dataset]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/missing.JPG)
+
 Almost 50% of the data are missing in the ‘SES” column and we want to keep the importance of missingness and thus we imputed ‘0’ if any data was missing in this particular column.
 ## 2. Model Selection
 See the detail here =====> [Model Selection]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part2_crossdementia_Model_Selection.ipynb)
@@ -53,8 +54,9 @@ CatBoostClassifier(random_state = 42)
  'loss_function': 'Logloss',
  'random_seed': 18}
 ```
-3. ## Handling Class Imbalance 
+## 3. Handling Class Imbalance 
 See the detail here =====> [Class Imbalance]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part3_crossdementia_Handling_Class_Imbalance.ipynb)
+
 The minority class have been oversampled in this dataset. See the images below. 
 
 Target Variable in the Orginal Dataset
