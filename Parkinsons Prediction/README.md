@@ -17,6 +17,8 @@ The following features have been applied to the speech recordings of Parkinson's
 + Wavelet Transform based Features, 
 + Vocal Fold Features and 
 + TWQT
+
+
 Acknowledgement:  Sakar, B.E., Tutuncu, M., Aydin, T., Isenkul, M.E. and Apaydin, H., 2018. A comparative analysis of speech signal processing algorithms for Parkinson’s
 disease classification and the use of the tunable Q-factor wavelet transform. Applied Soft Computing, DOI: [https://doi.org/10.1016/j.asoc.2018.10.022](https://www.sciencedirect.com/science/article/abs/pii/S1568494618305799?via%3Dihub)
 
