@@ -1,7 +1,7 @@
 # Dementia Prediction from Cross-sectional MRI Data of Young, Middle Aged Person
 
 ## Objective
-The purpose of this analysis is to predict whether a person is demented or non-demented by employing a Machine Learning model. 
+The purpose of this analysis is to predict whether a young or middled aged person is demented or non-demented by employing a Machine Learning model. 
 
 ## About the Dataset
 
