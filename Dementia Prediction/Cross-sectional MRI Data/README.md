@@ -11,7 +11,7 @@ Source: https://central.xnat.org/app/template/XDATScreen_report_xnat_projectData
 
 This set consists of a cross-sectional collection of 416 subjects aged 18 to 96. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. 100 of the included subjects over the age of 60 have been clinically diagnosed with very mild to moderate Alzheimer’s disease (AD). Additionally, a reliability data set is included containing 20 nondemented subjects imaged on a subsequent visit within 90 days of their initial session.
 
-Acknowledgement: Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults
+#### Acknowledgement: Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults
 Marcus, DS, Wang, TH, Parker, J, Csernansky, JG, Morris, JC, Buckner, RL. Journal of Cognitive Neuroscience, 19, 1498-1507. doi: [10.1162/jocn.2007.19.9.1498](https://www.mitpressjournals.org/doi/abs/10.1162/jocn.2007.19.9.1498)
 
 Attribute informatio
