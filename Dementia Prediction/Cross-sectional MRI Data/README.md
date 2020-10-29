@@ -66,12 +66,19 @@ CatBoostClassifier(random_state = 42)
 3. ## Handling Class Imbalance 
 See the detail here =====> [Class Imbalance]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part3_crossdementia_Handling_Class_Imbalance.ipynb)
 The minority class have been oversampled in this dataset. See the images below. 
+
 Target Variable in the Orginal Dataset
+
 ![Original]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/regular.JPG)
+
 Target Variable in the Oversampled Dataset
+
 ![Oversampled]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/oversampled.JPG)
+
 ## 4. Outliers/Important Observation
+
 See the detail here =====> [Outliers]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part4_crossdementia_Handling_Outliers.ipynb)
+
 Performance metrics before taking care of the outliers:
 ```
 Recall Score: 0.8889
@@ -100,18 +107,26 @@ Weighted Average of F1 Score: 0.9
 ------------------------------------------------------
 Accuracy Score: 0.9
 ```
-We’ve kept the important observation unchanged in this analysis.
+I’ve kept the important observation unchanged in this analysis.
 
 ## Model Performance Metrics
+
 See the detail here =====> [Final Model]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/Part5_crossdementia_CatBoostClassifier-Final.ipynb)
 
 #### Confusion Matrix: 
+
 We wanted to minimize the False Negative as small as possible and thus maximize the Recall score.
+
 ![CM]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/cm.JPG)
+
 #### ROC curve and Precision-Recall curve: 
+
 ![roc_pr]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/roc_pr.JPG)
+
 #### Performance of the model on the train and test dataset:
+
 ![train test]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data/images/traintest.JPG)
+
 ## Some numeric values we'd like to look at
 
 ```
