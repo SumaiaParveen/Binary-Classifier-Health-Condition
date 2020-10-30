@@ -67,7 +67,7 @@ See the detail here =====> [EDA]( https://github.com/SumaiaParveen/Binary-Classi
 See the detail here =====> [Data Preprocessing]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Schiller's%20Test%20Result%20Prediction/Part1_schiller_Data%20Preprocessing.ipynb)
 
 ### Missing Data
-![ missingness]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Schiller's%20Test%20Result%20Prediction/images/missing.JPG)
+![ missingness](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Schiller's%20Test%20Result%20Prediction/images/missing.png)
 
 Different imputation techniques have been applied and finally we imputed the missing data with randomly sampled data of that particular column.
 
