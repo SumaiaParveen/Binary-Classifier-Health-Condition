@@ -64,7 +64,7 @@ See the detail here =====> [EDA]( https://github.com/SumaiaParveen/Binary-Classi
 ![Multivariate]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/images/cyto_multi.JPG)
 
 ## Data Preprocessing
-See the detail here =====> [Data Preprocessing]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Colposcopy%20Result%20Prediction/Part1_hinselmann_Data%20Preprocessing.ipynb)
+See the detail here =====> [Data Preprocessing]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/Part1_citology_Data%20Preprocessing.ipynb)
 
 ### Missing Data
 ![ missingness]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/images/missing.JPG)
