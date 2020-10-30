@@ -83,21 +83,23 @@ Weighted Average of Recall Score: 0.707
 ```
 
 Recall Score in the Synthetically Generated (SMOTE) Dataset:
-```
 
+```
 Recall Score: 0.1
 Macro Average of Recall Score: 0.5329
 Weighted Average of Recall Score: 0.9256
 ```
 
 Recall Score in the Synthetically Generated SMOTETomek(0.95) Dataset:
+
 ```
 Recall Score: 0.0
 Macro Average of Recall Score: 0.4659
 Weighted Average of Recall Score: 0.8884
-
 ```
+
 Recall Score without changing anything in the dataset:
+
 ```
 Recall Score: 0.6
 Macro Average of Recall Score: 0.6073
