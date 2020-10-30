@@ -64,7 +64,7 @@ We will keep the dataset unchanged.
 
 See the detail here =====> [Feature Selection]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/Part3_citology_Feature_Selection.ipynb)
 
-![feat]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/images/feat_sel.JPG)
+![feat](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/images/feat_sel.png)
 
 ### Selected Features:
 
