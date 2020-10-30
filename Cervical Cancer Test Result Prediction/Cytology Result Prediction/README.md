@@ -153,33 +153,33 @@ Prediction error using EasyEnsembleClassifier model:
 
 ## 4. Outliers/Important Observation
 
-See the detail here =====> [Outliers]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/Part5_hinselmann_Handling_Outliers.ipynb)
+See the detail here =====> [Outliers](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Cytology%20Result%20Prediction/Part5_citology_Handling_Outliers.ipynb)
 
 Performance metrics before taking care of the outliers:
 ```
-Macro Average of Recall Score: 0.7303
-Weighted Average of Recall Score: 0.6096
+Macro Average of Recall Score: 0.5833
+Weighted Average of Recall Score: 0.5116
 ------------------------------------------------------
-Macro Average of Precision Score: 0.5223
-Weighted Average of Precision Score: 0.9716
+Macro Average of Precision Score: 0.5216
+Weighted Average of Precision Score: 0.8923
 ------------------------------------------------------
-Macro Average of Recall Score: 0.4232
-Weighted Average of Recall Score: 0.7354
+Macro Average of Recall Score: 0.4079
+Weighted Average of Recall Score: 0.6212
 
-Accuracy Score: 0.6096
+Accuracy Score: 0.5116
 ```
 Performance metrics after taking care of the outliers:
 ```
-Macro Average of Recall Score: 0.5945
-Weighted Average of Recall Score: 0.6164
+Macro Average of Recall Score: 0.5792
+Weighted Average of Recall Score: 0.5039
 ------------------------------------------------------
-Macro Average of Precision Score: 0.5093
-Weighted Average of Precision Score: 0.9605
+Macro Average of Precision Score: 0.5206
+Weighted Average of Precision Score: 0.8915
 ------------------------------------------------------
-Macro Average of Recall Score: 0.4126
-Weighted Average of Recall Score: 0.742
+Macro Average of Recall Score: 0.4031
+Weighted Average of Recall Score: 0.6141
 
-Accuracy Score: 0.6164
+Accuracy Score: 0.5039
 ```
 I’ve kept the important observation unchanged in this analysis to take care of class imbalance.
 
