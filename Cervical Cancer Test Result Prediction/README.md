@@ -2,7 +2,7 @@
 
 ## Objective
 
-The purpose of this analysis is to predict whether a woman’s test resukt for cervical cancer would be positive or negative with the help of a machine learning model.
+Four different analyses have been made to predict the test results from the given information. The calss imbalance problem prevails in the dataset even after trying to oversample the minority class and using SMOTE techniques. Therefore, EasyEnsemble Classifier has been emplyoed to see if it helps the binary classification.
 
 ## Methodology
 
