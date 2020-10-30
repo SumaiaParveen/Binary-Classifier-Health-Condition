@@ -87,7 +87,6 @@ Weighted Average of Recall Score: 0.7814
 
 Recall Score in the Synthetically Generated (SMOTE) Dataset:
 ```
-
 Recall Score: 0.0 
 Macro Average of Recall Score: 0.4764 
 Weighted Average of Recall Score: 0.9395 
@@ -114,23 +113,7 @@ See the detail here =====> [Feature Selection]( https://github.com/SumaiaParveen
 
 ![feat](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Colposcopy%20Result%20Prediction/images/feat_sel.JPG)
 
-### Selected Features:
-
-+ ‘age', 
-+ 'number_of_sexual_partners', 
-+ 'first_sexual_intercourse', 
-+ 'num_ofpregnancies', 
-+ 'smokes(years)', 
-+ 'smokes_(packs_year)', 
-+ 'hormonal_contraceptives', 
-+ 'hormonalcontraceptives(years)', 
-+ 'iud', 'iud(years)', 
-+ 'stds(number)', 
-+ 'stds_vulvo-perineal_condylomatosis', 
-+ 'stds_number_of_diagnosis', 
-+ 'dx_cancer', 
-+ 'dx_hpv'
-
+### The above mentioned features are chosen for this analysis.
 
 ## Model Selection
 See the detail here =====> [Model Selection]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/blob/main/Cervical%20Cancer%20Test%20Result%20Prediction/Colposcopy%20Result%20Prediction/Part4_hinselmann_Model_Selection.ipynb)
