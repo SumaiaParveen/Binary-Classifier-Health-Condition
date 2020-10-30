@@ -4,9 +4,9 @@
 
 We want to predict whether a person is demented or not the MRI data. Two different analyses have been made from the MRI data of different age groups:
 
-1. Young, Middle Aged Person == [Cross-sectional MRI Data](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/tree/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data)
+1. Young, Middle Aged Person ====> [Cross-sectional MRI Data](https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/tree/main/Dementia%20Prediction/Cross-sectional%20MRI%20Data)
 
-2. Older Adults == [Longitudinal MRI Data]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/tree/main/Dementia%20Prediction/Longitudinal%20MRI%20Data)
+2. Older Adults ====> [Longitudinal MRI Data]( https://github.com/SumaiaParveen/Binary-Classifier-Health-Condition/tree/main/Dementia%20Prediction/Longitudinal%20MRI%20Data)
 
 ## About the Dataset
 
