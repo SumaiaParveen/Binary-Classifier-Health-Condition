@@ -5,8 +5,6 @@ The purpose of this analysis is to predict whether a young or middled aged perso
 
 ## About the Dataset
 
-The Open Access Series of Imaging Studies [(OASIS)](https://www.oasis-brains.org/) is a project aimed at making MRI data sets of the brain freely available to the scientific community. [OASIS](https://www.oasis-brains.org/) is made available by the Washington University Alzheimer’s Disease Research Center, Dr. Randy Buckner at the Howard Hughes Medical Institute (HHMI)( at Harvard University, the Neuroinformatics Research Group (NRG) at Washington University School of Medicine, and the Biomedical Informatics Research Network (BIRN).
-
 Source: https://central.xnat.org/app/template/XDATScreen_report_xnat_projectData.vm/search_element/xnat:projectData/search_field/xnat:projectData.ID/search_value/CENTRAL_OASIS_CS
 
 This set consists of a cross-sectional collection of 416 subjects aged 18 to 96. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. 100 of the included subjects over the age of 60 have been clinically diagnosed with very mild to moderate Alzheimer’s disease (AD). Additionally, a reliability data set is included containing 20 nondemented subjects imaged on a subsequent visit within 90 days of their initial session.
